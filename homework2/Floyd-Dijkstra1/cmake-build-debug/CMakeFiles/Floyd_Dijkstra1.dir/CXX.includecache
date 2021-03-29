@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/niuniu/Desktop/Algorithm analysis and design/homework2/Floyd-Dijkstra1/main.cpp
+iostream
+-
+stack
+-
+
