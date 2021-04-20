@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/niuniu/Desktop/Algorithm analysis and design/homeworrk6/main.cpp
+stdio.h
+-
+iostream
+-
+algorithm
+-
+
